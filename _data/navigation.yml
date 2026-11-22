@@ -10,3 +10,9 @@
 main:
   - title: "关于我"
     url: /
+
+  - title: "过往经历"
+    url: /experience/
+
+  - title: "作品集"
+    url: /portfolio/
