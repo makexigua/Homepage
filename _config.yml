@@ -24,13 +24,13 @@ repository               : "makexigua/Homepage"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "赵智超"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "喜欢敲代码、打羽毛球和折腾新东西。"
+  location         : "北京"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1820647307@qq.com" 
 
   # Academic websites
   academia         : # URL
