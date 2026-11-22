@@ -234,7 +234,7 @@ author_profile: true
       <div class="timeline-card">
         <span class="timeline-icon" aria-hidden="true">✈️</span>
         <div class="timeline-content">
-          <h2 class="timeline-title">朔州机场</h2>
+          <h2 class="timeline-title">朔州滋润机场</h2>
           <div class="timeline-role">民航管制员</div>
         </div>
       </div>
