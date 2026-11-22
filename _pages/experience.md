@@ -5,13 +5,6 @@ layout: single
 author_profile: true
 ---
 
----
-permalink: /experience/
-title: "过往经历"
-layout: single
-author_profile: true
----
-
 <style>
 .experience-page {
   --timeline-line: #eeeeee;
@@ -100,7 +93,6 @@ author_profile: true
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
 
-/* 默认表情图标，也支持替换为图片 */
 .experience-page .timeline-icon {
   display: flex;
   align-items: center;
@@ -143,15 +135,9 @@ author_profile: true
 }
 
 .experience-page .timeline-role {
-  margin-top: 6px;
-  font-size: 0.9em;
-}
-
-.experience-page .timeline-description {
-  margin: 12px 0 0;
+  margin-top: 8px;
   color: #71777b;
-  font-size: 0.8em;
-  line-height: 1.9;
+  font-size: 0.85em;
 }
 
 /* 手机端改为单侧时间线 */
@@ -196,44 +182,72 @@ author_profile: true
 <div class="experience-page">
 
   <p class="experience-intro">
-    从民航管制员到重新走进校园，再到寻找第一份程序员工作，
-    我的职业方向拐了个弯。这里记录走过的路，也留一点空间给未来。
+    从学习民航知识，到成为管制员，再到重新走进校园、探索编程。
+    这里记录我的学习、工作与实习经历。
   </p>
 
   <div class="timeline">
 
-    <!-- 经历一：请填写真实就读时间 -->
+    <!-- 腾讯实习 -->
     <div class="timeline-item">
-      <div class="timeline-date">起止时间待填写</div>
-
+      <div class="timeline-date">2026.07 — 2026.09</div>
       <div class="timeline-card">
-        <span class="timeline-icon" aria-hidden="true">🎓</span>
-
+        <span class="timeline-icon" aria-hidden="true">💻</span>
         <div class="timeline-content">
-          <h2 class="timeline-title">北京邮电大学</h2>
-          <div class="timeline-role">在读 · 向程序员转型</div>
-          <p class="timeline-description">
-            目前就读于北京邮电大学，一边学习编程、做项目，
-            一边参加秋招，希望找到进入软件开发行业的机会。
-          </p>
+          <h2 class="timeline-title">
+            深圳腾讯计算机系统有限公司
+          </h2>
+          <div class="timeline-role">实习</div>
         </div>
       </div>
     </div>
 
-    <!-- 经历二：请填写真实工作时间 -->
+    <!-- 四象网讯实习 -->
     <div class="timeline-item">
-      <div class="timeline-date">起止时间待填写</div>
+      <div class="timeline-date">2026.02 — 2026.05</div>
+      <div class="timeline-card">
+        <span class="timeline-icon" aria-hidden="true">💼</span>
+        <div class="timeline-content">
+          <h2 class="timeline-title">
+            北京四象网讯科技有限公司
+          </h2>
+          <div class="timeline-role">实习</div>
+        </div>
+      </div>
+    </div>
 
+    <!-- 北京邮电大学 -->
+    <div class="timeline-item">
+      <div class="timeline-date">2024.09 — 2027.07（预计）</div>
+      <div class="timeline-card">
+        <span class="timeline-icon" aria-hidden="true">🎓</span>
+        <div class="timeline-content">
+          <h2 class="timeline-title">北京邮电大学</h2>
+          <div class="timeline-role">在读</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 朔州机场 -->
+    <div class="timeline-item">
+      <div class="timeline-date">2021.07 — 2023.03</div>
       <div class="timeline-card">
         <span class="timeline-icon" aria-hidden="true">✈️</span>
-
         <div class="timeline-content">
-          <h2 class="timeline-title">民航管制员</h2>
-          <div class="timeline-role">转行之前</div>
-          <p class="timeline-description">
-            曾经从事民航管制工作。
-            这是我职业经历的一部分，也是走向下一段旅程的起点。
-          </p>
+          <h2 class="timeline-title">朔州机场</h2>
+          <div class="timeline-role">民航管制员</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 中国民用航空飞行学院 -->
+    <div class="timeline-item">
+      <div class="timeline-date">2017.09 — 2021.07</div>
+      <div class="timeline-card">
+        <span class="timeline-icon" aria-hidden="true">🏫</span>
+        <div class="timeline-content">
+          <h2 class="timeline-title">中国民用航空飞行学院</h2>
+          <div class="timeline-role">就读</div>
         </div>
       </div>
     </div>
