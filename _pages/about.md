@@ -80,7 +80,7 @@ author_profile: true
     <div class="contact-box">
       <p>
         📧 邮箱：
-        <a href="1820647307@qq.com">1820647307@qq.com</a>
+        <a>1820647307@qq.com</a>
       </p>
       <p>
         🐙 GitHub：
