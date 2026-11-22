@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "关于我"
+author_profile: true
+---
+
 <div class="personal-home">
 
   <section class="home-section">
@@ -57,6 +63,30 @@
         还在慢慢学，遇到不懂的就多查一点。
         希望看新闻时，能少一点“知道发生了什么，
         但不明白为什么”。
+      </p>
+    </div>
+  </section>
+
+    <section class="home-section">
+    <h2>联系我</h2>
+
+    <div class="home-intro">
+      <p>
+        如果你有合适的工作机会，欢迎联系我。
+        也欢迎聊聊编程、音乐，或者交流转行的经历。
+      </p>
+    </div>
+
+    <div class="contact-box">
+      <p>
+        📧 邮箱：
+        <a href="1820647307@qq.com">1820647307@qq.com</a>
+      </p>
+      <p>
+        🐙 GitHub：
+        <a href="https://github.com/makexigua">
+          makexigua
+        </a>
       </p>
     </div>
   </section>
