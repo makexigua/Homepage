@@ -79,8 +79,7 @@ author_profile: true
 
     <div class="contact-box">
       <p>
-        📧 邮箱：
-        <a>1820647307@qq.com</a>
+        📧 邮箱：1820647307@qq.com
       </p>
       <p>
         🐙 GitHub：
