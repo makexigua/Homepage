@@ -195,7 +195,7 @@ author_profile: true
         <span class="timeline-icon" aria-hidden="true">💻</span>
         <div class="timeline-content">
           <h2 class="timeline-title">
-            深圳腾讯计算机系统有限公司
+            腾讯计算机系统有限公司
           </h2>
           <div class="timeline-role">实习</div>
         </div>
